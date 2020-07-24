@@ -1,7 +1,7 @@
 ## Project FaleMais Telzir
 This project was created to evaluate the Junior Analyst position for LOLDESING company.
 
-## To run 
+## To use 
 
 For use this project you can run 'yarn' to download all depencies. 
 
