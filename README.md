@@ -1,3 +1,11 @@
+## Project FaleMais Telzir
+This project was created to evaluate the Junior Analyst position for LOLDESING company.
+
+## To run 
+
+For use this project you can run 'yarn' to download all depencies. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
